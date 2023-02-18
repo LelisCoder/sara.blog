@@ -1,0 +1,75 @@
+body {
+    margin: 0%;
+background-color: #f1c6c6;
+font-family: 'Raleway', sans-serif;
+color: rgb(34, 34, 34)
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto-principal {
+width: 250px;
+border: 2px solid #ffffff; /*shorthand*/
+border-radius: 100px;
+margin: 30px 30px 0px 30px;
+box-shadow: 0px 0px 10px #959595;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 45px;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h2 {
+margin-top: 0;
+font-style: italic;
+color: rgb(73, 73, 73);
+font-weight: lighter;
+letter-spacing: -1px;
+}
+
+.polvobem{
+    width: 100px;
+    margin: 0 30px 0 0;
+}
+
+.polvomal{
+    width: 100px;
+    margin: 0 0 0 30px;
+}
+
+
+.joblist {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer {
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
